@@ -1,22 +1,40 @@
-# Hi there! 👋
+# Gao Zebin
 
-I'm **Gao Zebin** (gzb1128)
+Software Engineer focused on Cloud Native and delivery platforms.
 
-## 🎓 Education
-- **Peking University** - Graduate
+## Education
 
-## 🚀 Focus Areas
-- **Cloud Native** - Kubernetes, Go, Operator development
-- **AI Applications** - Building intelligent applications with AI/ML
+**Peking University** - B.S. in Software Engineering
 
-## 🛠️ Tech Stack
-- **Languages**: Go, Python
-- **Cloud Native**: Kubernetes, Docker, Controller Runtime
-- **Tools**: Git, Linux
+## Professional Focus
 
-## 📫 How to reach me
+Cloud Native delivery platform development with expertise in Controller architecture and AI application deployment.
+
+## Technical Expertise
+
+### Delivery Platforms
+- Argo Workflow
+- KubeVela
+- Helm
+- AI Application Deployment
+
+### Controller Architecture
+- client-go
+- controller-runtime
+- Operator Development
+
+### Cloud Native
+- Kubernetes
+- Docker
+
+### Languages & Tools
+- Go, Python
+- Git, Linux
+
+## Interests
+
+Machine Learning
+
+## Contact
+
 - GitHub: [@gzb1128](https://github.com/gzb1128)
-
----
-
-⭐️ Fun fact: I'm passionate about building scalable cloud-native solutions and exploring the intersection of AI and cloud computing.
