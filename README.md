@@ -8,7 +8,7 @@ Software Engineer focused on Cloud Native and delivery platforms.
 
 ## Professional Focus
 
-Cloud Native delivery platform development with expertise in Controller architecture and AI application deployment.
+Cloud Native delivery platform development with expertise in Controller architecture.
 
 ## Technical Expertise
 
@@ -16,7 +16,6 @@ Cloud Native delivery platform development with expertise in Controller architec
 - Argo Workflow
 - KubeVela
 - Helm
-- AI Application Deployment
 
 ### Controller Architecture
 - client-go
@@ -29,7 +28,6 @@ Cloud Native delivery platform development with expertise in Controller architec
 
 ### Languages & Tools
 - Go, Python
-- Git, Linux
 
 ## Interests
 
