@@ -1,4 +1,4 @@
-# Gao Zebin
+# Zephyr Gao
 
 Software Engineer focused on Cloud Native and delivery platforms.
 
